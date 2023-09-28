@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1017102803356",
+    "project_id": "firestore-app-aec98",
+    "storage_bucket": "firestore-app-aec98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017102803356:android:7cdf93adfb22ca2002a859",
+        "android_client_info": {
+          "package_name": "com.kotlin.firestore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfyeBHEljlU5JKuSSk-EWfMO83tao0Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017102803356:android:b96f722062ff006202a859",
+        "android_client_info": {
+          "package_name": "com.kotlin.firestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfyeBHEljlU5JKuSSk-EWfMO83tao0Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
